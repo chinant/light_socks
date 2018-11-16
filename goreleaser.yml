@@ -10,6 +10,7 @@ builds:
        - amd64
        - 386
        - arm
+       - mips
   - binary: lightsocks-server
     main: ./cmd/lightsocks-server/main.go
     goos:
